@@ -219,3 +219,5 @@ app_license = "mit"
 # auth_hooks = [
 #	"admin_task.auth.validate"
 # ]
+
+hooks.pyexport_python_type_annotations = True
